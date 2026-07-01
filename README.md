@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Stephanie-Castro-Dos-Santos/Stephanie-Castro-Dos-Santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
