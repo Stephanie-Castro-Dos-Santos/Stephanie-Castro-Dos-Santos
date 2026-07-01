@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 I'm a developer based in Madrid, passionate about bridging the gap between pure logic and visually delightful user experiences. I enjoy building things from the ground up, whether it's a mobile app, a web platform, or the UI/UX architecture behind them.
 
 ### 🛠️ Tech Stack & Tools
-* **Frontend & Mobile:** React, React Native, HTML5, CSS3, JavaScript, TypeScript
-* **Backend:** Node.js, Express.js, MongoDB, REST APIs, Java
-* **Design & UX:** Figma, Wireframing, Prototyping
-* **Workflow:** Git, GitHub, Vercel, Agile (Scrum)
+* **Frontend & Mobile:** `React`, `React Native`, `HTML5`, `CSS3`, `JavaScript`, `TypeScript`
+* **Backend:** `Node.js`, `Express.js`, `MongoDB`, `REST APIs`, `Java`
+* **Design & UX:** `Figma`, `Wireframing`, `Prototyping`
+* **Workflow:** `Git`, `GitHub`, `Vercel`, `Agile (Scrum)`
 
 ### 🌱 Currently
-* Pursuing a Bachelor's Degree in Computer Science at UNIR.
+* Pursuing a Bachelor's Degree in **Computer Science** at **UNIR**.
 * Honing my skills in the MERN stack and clean code practices.
 
 ### 📫 Let's Connect!
