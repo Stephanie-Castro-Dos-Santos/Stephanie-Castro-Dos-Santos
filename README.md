@@ -30,7 +30,7 @@ I'm a developer based in Madrid, passionate about bridging the gap between pure 
 * **Workflow:** Git, GitHub, Vercel, Agile (Scrum)
 
 ### 🌱 Currently
-* Pursuing a Bachelor's Degree in Computer Engineering at UNIR.
+* Pursuing a Bachelor's Degree in Computer Science at UNIR.
 * Honing my skills in the MERN stack and clean code practices.
 
 ### 📫 Let's Connect!
