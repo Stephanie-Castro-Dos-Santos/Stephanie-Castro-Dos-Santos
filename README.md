@@ -32,7 +32,7 @@ I'm a developer based in Madrid, passionate about bridging the gap between pure 
 - **Workflow & Deployment:** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) <br/>
 
 - **Tools & Scripting:** ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) <br/>
-
+<br/>
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Stephanie-Castro-Dos-Santos&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
